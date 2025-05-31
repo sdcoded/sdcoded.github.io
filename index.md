@@ -1,38 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Shane Dickens - PhD Researcher</title>
-  <link rel="stylesheet" href="assets/style.css" />
-</head>
-<body>
-  <header>
-    <img src="assets/Shane original.jpg" alt="Your headshot" width="150" />
-    <h1>Shane Dickens</h1>
-    <p>PhD Researcher in Reinforcement Learning<br />
-       University of Bath</p>
-    <nav>
-      <a href="index.html">Home</a> |
-      <a href="about.html">About / CV</a> |
-      <a href="contact.html">Contact</a>
-    </nav>
-  </header>
+<!-- index.md -->
+---
+layout: default
+title: "Home"
+permalink: "/"
+---
 
-  <main>
-    <section>
-      <h2>Welcome</h2>
-      <p>Hello! I’m <strong>Shane Dickens</strong>, a PhD researcher at the University of Bath. My research centres on reinforcement-learning, more specifically unsupervised skill discovery. When I’m not in the lab, I enjoy spending time with my family, reading and videogames.</p>
-    </section>
+## Welcome
 
-    <section>
-      <h2>Latest News</h2>
-      <p>May 2025 - Attended Oxford University Machine Learning Summer School - It was a really insightful experience, great to connect with other researchers and brush up on the fundamentals!</p>
-    </section>
-  </main>
+Hello! I’m Shane Dickens, a PhD researcher in Reinforcement Learning at the University of Bath. My research centres on unsupervised skill discovery. When I’m not in the lab, I enjoy spending time with my family, reading and playing videogames.
 
-  <footer>
-    <p>© 2025 Shane Dickens. All rights reserved.</p>
-  </footer>
-</body>
-</html>
+## Latest News
+
+I recently attended OxML 2025, it was great to connect with other researchers and brush up on the fundamentals.
