@@ -1,0 +1,72 @@
+/* assets/style.css */
+
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  colour: #333;
+}
+
+header {
+  text-align: center;
+  background-color: #004d99; /* a dark blue */
+  colour: #fff;
+  padding: 2rem 1rem;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+header p {
+  margin-bottom: 1rem;
+}
+
+nav a {
+  colour: #ffd54f; /* a light gold for links */
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 1rem;
+  colour: #004d99;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  colour: #666;
+  margin: 2rem 0;
+}
+
+/* Optional: style images in header */
+header img {
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
