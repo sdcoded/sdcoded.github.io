@@ -1,15 +1,43 @@
-title:       "Shane Dickens – PhD Researcher"
+title: "Shane Dickens – PhD Researcher"
 description: "Personal website for Shane Dickens, PhD student in Reinforcement Learning"
-url:         "https://sdcoded.github.io"
-baseurl:     ""
+url: "https://sdcoded.github.io"
+baseurl: ""
 
-theme: al-folio
+# ───────────────────────────────────────
+# 2) REMOTE THEME
+# ───────────────────────────────────────
+
+remote_theme: alshedivat/al-folio
+
+# ───────────────────────────────────────
+# 3) NAVIGATION / HEADER PAGES
+# ───────────────────────────────────────
 
 header_pages:
   - index.md
   - about.md
   - contact.md
 
+# ───────────────────────────────────────
+# 4) AUTHOR & SOCIAL
+# ───────────────────────────────────────
+
 author:
   name:  "Shane Dickens"
   email: "sard20@bath.ac.uk"
+
+social:
+  - icon: “octicon-mark-github”
+    link: "https://github.com/sdcoded"
+  - icon: “fas fa-envelope”
+    link: "mailto:sard20@bath.ac.uk"
+
+# ───────────────────────────────────────
+# 5) PLUGINS & MISC
+# ───────────────────────────────────────
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-coffeescript
