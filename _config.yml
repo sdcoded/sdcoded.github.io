@@ -1,7 +1,7 @@
-title: "Shane Dickens – PhD Researcher"
+title:       "Shane Dickens – PhD Researcher"
 description: "Personal website for Shane Dickens, PhD student in Reinforcement Learning"
-url: "https://sdcoded.github.io"
-baseurl: ""
+url:         "https://sdcoded.github.io"
+baseurl:     ""
 
 remote_theme: alshedivat/al-folio
 plugins:
@@ -9,12 +9,12 @@ plugins:
 
 nav:
   - title: "Home"
-    url: "/"
+    url:   "/"
   - title: "About"
-    url: "/about/"
+    url:   "/about/"
   - title: "Contact"
-    url: "/contact/"
+    url:   "/contact/"
 
 author:
-  name: "Shane Dickens"
-  email: "sard[at]bath.ac.uk"
+  name:  "Shane Dickens"
+  email: "sdcodesk@hotmail.co.uk"
