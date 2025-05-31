@@ -5,7 +5,7 @@ url: "https://username.github.io"         # the base URL of your site
 baseurl: ""                               # leave empty since we’re serving from root
 
 # Specify the remote theme (must be GitHub Pages compatible)
-remote_theme: jekyll-theme-slate          # for jekyll-theme-slate
+remote_theme: alshedivat/al-folio          # for jekyll-theme-slate
 plugins:
   - jekyll-remote-theme                   # enables remote themes
 
