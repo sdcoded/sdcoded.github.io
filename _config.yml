@@ -7,7 +7,7 @@ baseurl: ""
 # 2) REMOTE THEME
 # ───────────────────────────────────────
 
-remote_theme: alshedivat/al-folio@v0.19.0
+remote_theme: alshedivat/al-folio@v0.14.6
 
 # ───────────────────────────────────────
 # 3) NAVIGATION / HEADER PAGES
