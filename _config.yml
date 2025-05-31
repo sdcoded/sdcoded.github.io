@@ -3,9 +3,7 @@ description: "Personal website for Shane Dickens, PhD student in Reinforcement L
 url:         "https://sdcoded.github.io"
 baseurl:     ""
 
-remote_theme: alshedivat/al-folio
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-minimal
 
 nav:
   - title: "Home"
