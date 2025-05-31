@@ -1,14 +1,12 @@
 title: "Shane Dickens – PhD Researcher"
 description: "Personal website for Shane Dickens, PhD student in Reinforcement Learning"
-url: "https://username.github.io"         # the base URL of your site
-baseurl: ""                               # leave empty since we’re serving from root
+url: "https://username.github.io"
+baseurl: ""
 
-# Specify the remote theme (must be GitHub Pages compatible)
-remote_theme: alshedivat/al-folio          # for jekyll-theme-slate
+remote_theme: alshedivat/al-folio
 plugins:
-  - jekyll-remote-theme                   # enables remote themes
+  - jekyll-remote-theme
 
-# Navigation items: (optional, depending on theme support)
 nav:
   - title: "Home"
     url: "/"
@@ -17,8 +15,7 @@ nav:
   - title: "Contact"
     url: "/contact/"
 
-# Author info (some themes use this to populate headers/footers)
 author:
   name: "Shane Dickens"
-  email: "sard[at]bath.ac.uk"       # optional
+  email: "sard[at]bath.ac.uk"
 
